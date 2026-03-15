@@ -1,0 +1,72 @@
+1770880461957: / New Req Received
+1770880462232: /favicon.ico New Req Received
+1770880478008: /about New Req Received
+1770880478138: /favicon.ico New Req Received
+1770880521641: /abo New Req Received
+1770880521775: /favicon.ico New Req Received
+1770889282813: / New Req Received
+1770889295394: /search New Req Received
+1770890401717: /search New Req Received
+1770890480994: /search New Req Received
+1770890891608: /about New Req Received
+1770892950148: /about New Req Received
+1770893010546: /signup New Req Received
+
+
+
+// Version
+
+1st part -> 4
+2nd part -> 18
+3rd part -> 2
+
+// 3rd part (Last Part) - Minor Fixes (Optional)
+Latest -> 4.18.5
+
+// 2nd part Recommended Bug Fix 
+Latest -> 4.19.1
+
+// 3rd Major Release - Major / Breaking Up
+5
+
+express  = ^4.18.2
+4th version
+
+^4.18.2 | 4.18.2 -> < 5.0.0 |
+
+^4.17.9
+4.18.1
+4.18.2
+4.18.3
+4.18.4
+
+5.1.0
+
+^ - Install all recommended and minor fixes automatically.
+
+
+~4.18.1
+~4.18.2
+~4.18.3
+~4.18.4
+
+4.19.1 Nooo...
+1773507695947:::1 GET: /api/users
+
+1773508084985:::1 GET: /api/users
+
+1773508229252:::1 GET: /api/users
+
+1773508281090:::1 GET: /api/users
+
+1773508556070:::1 GET: /api/users
+
+1773508682400:::1 GET: /api/users
+
+1773508767511:::1 POST: /api/users
+
+1773508874466:::1 POST: /api/users
+
+1773509007032:::1 GET: /api/users/69b471479c903133b5a25a13
+
+1773509033365:::1 DELETE: /api/users/69b471479c903133b5a25a13
